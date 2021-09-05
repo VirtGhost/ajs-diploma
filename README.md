@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qd30e67wdfy7148k?svg=true)](https://ci.appveyor.com/project/VirtGhost/ajs-diploma)
 
 
 # AJS. Retro Game
